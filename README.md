@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @karan
 - 👀 I’m interested in programming and learning new technologies.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Internships
 - 📫 Reach me at karansanwal430@gmail.com.
 
 <!---
